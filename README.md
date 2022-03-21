@@ -14,6 +14,6 @@ This is a web application for Tess' Pizzeria, a pizza selling venture, that show
 
 User enters their preffered size, flavor and toppings ,sees the indicated charges  of each and gives us a call, stating the delivery location, on the delivery contact number provided and we will be able to make tha delivery.
 
-## Live link:
+## Live link: https://tessyotieno.github.io/pizza/
 
 Copyright (C) 2022 TESSY OTIENO
