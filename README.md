@@ -4,11 +4,11 @@ This is a web application for Tess' Pizzeria, a pizza selling venture, that show
 
 ##Techonologies used:
 
--HTML
--CSS
--JavaScript
--Bootstrap
--JQuery
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* JQuery
 
 #How To Use the Application
 
